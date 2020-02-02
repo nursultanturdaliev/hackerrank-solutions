@@ -6,7 +6,7 @@ import java.util.regex.*;
 import java.util.stream.*;
 
 /**
- * Jesse and Cookies
+ * Hackerrank Jesse and Cookies
  */
 public class Solution {
 
